@@ -27,7 +27,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://github.com/swong452/wk19EmployeeTrackerReact/tree/master/reactemptracker",
+  "homepage": "https://swong452.github.io/wk19EmployeeTrackerReact",
   "browserslist": {
     "production": [
       ">0.2%",
