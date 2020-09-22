@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/swong452/wk19EmployeeTrackerReact/tree/master/reactemptracker/precache-manifest.f5687df6d4ed094e1488a6e5e660ffbf.js"
+  "/wk19EmployeeTrackerReact/precache-manifest.16f0cd7c026a8c0b90a7d5881e613c5a.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/swong452/wk19EmployeeTrackerReact/tree/master/reactemptracker/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/wk19EmployeeTrackerReact/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
