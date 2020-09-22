@@ -8,6 +8,13 @@ For this assignment, you'll create a employee directory with React. This assignm
 
 * As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
+### Video Demo
+* Follow this link for Video Demo
+https://drive.google.com/file/d/14XZN1pRZ1dNYRcxRSSlF91RdXBCWh3Cg/view
+
+### Deployed App
+https://swong452.github.io/wk19EmployeeTrackerReact/
+
 ## Business Context
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
