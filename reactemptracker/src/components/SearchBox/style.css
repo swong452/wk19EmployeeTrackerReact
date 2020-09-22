@@ -1,0 +1,24 @@
+
+
+.terminal {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    opacity: 0.3;
+  }
+
+.inputAndButton{
+    margin-top:40px
+}
+
+.searchBttn{
+    margin-top:10px;
+    border-radius: 20px;;
+    letter-spacing: 1px !important;;
+    font-size:30px ;
+    font-style:oswald;
+    background-color:wheat;
+     
+}
+
